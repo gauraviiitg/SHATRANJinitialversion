@@ -1,0 +1,1 @@
+value, new_board = minimax(game.get_board(), 4, WHITE, game)
